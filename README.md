@@ -1,4 +1,4 @@
-# CSV-DATA-ANALYSIS-1-
-This is an diwali sales project. Here I analyse all csv data using python programming.
-And get a specified result that help to work with efficiently.
- 
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+
+## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
